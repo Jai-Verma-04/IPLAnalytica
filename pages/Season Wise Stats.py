@@ -166,7 +166,7 @@ with right_col:
         st.markdown(f"""
                 <div style="text-align: center;">
                 <h2 style="font-size: 2em; font-weight: normal; margin-top: 0px;">
-                    <span style="font-weight: bold;">Total Runs Scored:</span> {total_matches_played}
+                    <span style="font-weight: bold;">Total Runs Scored:</span> {total_runs_scored}
                 </h2>
             """, 
             unsafe_allow_html=True
